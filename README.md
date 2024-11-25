@@ -55,10 +55,6 @@ La interfaz permite a los usuarios:
 
 Asegúrese de instalar la biblioteca **CustomTkinter** antes de ejecutar el programa:
 
-bash
-
-Copiar código
-
 `pip install customtkinter` 
 
 Este proyecto busca optimizar la validación de cadenas genéticas, simplificando procesos complejos y reduciendo errores, con un enfoque educativo y práctico en la aplicación de los autómatas finitos.
